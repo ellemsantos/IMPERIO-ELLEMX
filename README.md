@@ -115,7 +115,7 @@
 
   <section id="projeto">
     <h2>Sobre o projeto</h2>
-    <p>Criei o <strong>Lucro na Palma da Mão</strong> para ajudar quem quer ganhar dinheiro de verdade em casa. Por apenas R$ 25, você recebe:</p>
+    <p>Criei o <strong>Lucro na Palma da Mão</strong> para ajudar quem quer ganhar dinheiro de verdade em casa. Por apenas R$ 10, você recebe:</p>
     <ul>
       <li>Sites que realmente pagam</li>
       <li>Dicas para evitar golpes</li>
