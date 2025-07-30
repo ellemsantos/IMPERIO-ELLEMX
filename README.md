@@ -67,6 +67,36 @@
   </div>
 </section>
 
+    <section style="font-family: Arial, sans-serif; padding: 30px; max-width: 800px; margin: auto; background: #f9f9f9; border-radius: 10px; box-shadow: 0 0 15px rgba(0,0,0,0.1);">
+  <h2 style="text-align: center; color: #2c3e50;">Trabalhe Avaliando e Respondendo Pesquisas em Home Office!</h2>
+  
+  <p style="font-size: 18px; color: #333; text-align: center;">
+    Você já imaginou ganhar dinheiro direto do conforto da sua casa, apenas avaliando produtos, serviços e respondendo pesquisas online?
+    Com o trabalho de <strong>pesquisas remuneradas</strong>, isso é totalmente possível!
+  </p>
+
+  <h3 style="color: #27ae60;">💻 Como funciona:</h3>
+  <ul style="font-size: 17px; color: #555; line-height: 1.6;">
+    <li>Você se cadastra em plataformas de empresas que buscam opiniões reais.</li>
+    <li>Recebe pesquisas, testes de produtos ou avaliações de serviços diretamente no seu e-mail.</li>
+    <li>Responde com sinceridade e recebe sua recompensa – que pode ser em dinheiro, pontos ou vales.</li>
+  </ul>
+
+  <h3 style="color: #27ae60;">✨ Vantagens de trabalhar com pesquisas online:</h3>
+  <ul style="font-size: 17px; color: #555; line-height: 1.6;">
+    <li>100% home office, faça no seu tempo e horário.</li>
+    <li>Não precisa de experiência anterior.</li>
+    <li>Pode ser uma renda extra ou até mesmo sua principal fonte de ganho.</li>
+    <li>Quanto mais pesquisas responder, maior será seu retorno.</li>
+  </ul>
+
+  <div style="text-align: center; margin-top: 30px;">
+    <a href="#cadastro" style="display: inline-block; padding: 15px 30px; background: #27ae60; color: white; font-size: 18px; text-decoration: none; border-radius: 8px; transition: 0.3s;">
+      🚀 Comece Agora!
+    </a>
+  </div>
+</section>
+
     <h1>Ellem Santos no Comando</h1>
     <p>Transforme sua vida com oportunidades reais de home office</p>
   </header>
